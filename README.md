@@ -1,11 +1,10 @@
 # Welcome from sudoCompetence (Tyson M. Koch)
 
-
-- 🎓 B.S. Computer Science (in progress), University of Minnesota — College of Science & Engineering
 <p align="left">
-  <img src="./goldy.png" alt="Goldy Gopher" width="120" />
+  <img src="./umn-logo.png" alt="Goldy Gopher" width="120" />
 </p>
 
+- 🎓 B.S. Computer Science (in progress), University of Minnesota — College of Science & Engineering
 - 🎓 A.S. Natural Science, University of Hawaii - LCC
 
 - 📍 St. Paul, MN
@@ -16,18 +15,6 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/tysonkoch/
 - 🧰 Interests: Arch Linux, Neovim, systems/tooling, backend fundamentals
 - 🤝 Open to: internships, collabs, open-source
-
-
----
-
-## GitHub at a glance
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sudoCompetence&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoCompetence&layout=compact&hide_title=true" />
-</p>
-
-[![sudoComeptence's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoCompetence)](https://github.com/sudoCompetence/github-readme-stats)
 
 ---
 
