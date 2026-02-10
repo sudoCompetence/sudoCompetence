@@ -9,10 +9,7 @@
 
 - 📍 St. Paul, MN
 - 💬 Discord: sudoCompetence
-- 📫 Personal: tysonmartellck@gmail.com
-- 📫 School: koch0395@umn.edu
-- 🌐 Portfolio: https://your-domain.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/tysonkoch/
+- 📫 Email: koch0395@umn.edu
 - 🧰 Interests: Arch Linux, Neovim, systems/tooling, backend fundamentals
 - 🤝 Open to: internships, collabs, open-source
 
