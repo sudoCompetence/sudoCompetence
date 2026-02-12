@@ -50,7 +50,7 @@
         <li style="list-style: none"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
             Computer Science Undergraduate at <strong>The University of Minnesota | College of Science and Engineering</strong></li>
         <li style="list-style: none"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
-            Statistical Analysis via R an Python</strong></li>
+            Currently learning Statistical Analysis via R and Python</strong></li>
         <li style="list-style: none"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
             Am currently a sales specialist at <strong>Verizon</strong></li>
     </dl>
